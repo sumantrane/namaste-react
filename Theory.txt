@@ -1,0 +1,3 @@
+what is emmet?
+Emmet uses different abbreviations and short expressions depending
+on what's passed, and then dynamically converts the abbreviations into the full code. 
